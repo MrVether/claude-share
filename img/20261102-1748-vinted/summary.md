@@ -5,7 +5,7 @@
 | Źródło | Stan | Zebrane | Po filtrze |
 |---|---|---|---|
 | Vinted | Bot-check Cloudflare Turnstile (API i przeglądarka, IP serwera), nieobchodzony | 0 | 0 |
-| OLX Kraków | API 403; strony działały w Chromium, po 5 wejściach 403 | 2 z 12 fraz: ,  | 1 |
+| OLX Kraków | API 403; strony działały w Chromium, po 5 wejściach 403 | 2 z 12 fraz: `kurtka rab`, `kurtka arcteryx` | 1 |
 
 Nie sprawdzono na OLX: kurtka patagonia, kurtka mountain equipment, kurtka puchowa pajak, kurtka primaloft, kurtka puchowa alpinistyczna oraz wszystkich fraz ze spodniami.
 
